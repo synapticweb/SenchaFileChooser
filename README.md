@@ -1,6 +1,6 @@
 # Sencha Touch file chooser plugin (umaintained)
 
-##Description
+## Description
 A Sencha Touch 2 plugin that shows a dialog where the user can choose a file or a folder. The chosen file's path is then passed as an argument to a callback function. 
 
 ## Setup
